@@ -1,2 +1,3 @@
 # autocommit
-Automatically Commit Git Code for You
+
+Automatic code commiter. It's just doing two things `git add` and `commit`
